@@ -6,7 +6,7 @@ This is my portfolio website. It is built using HTML5, CSS3 and Javascript.
 
 
 
-
+This project is licensed under the MIT License
 MIT License
 
 Copyright (c) 2020 Varad Bhogayata
